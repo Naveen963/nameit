@@ -1,6 +1,6 @@
 # Name It
 Name it app used to suggest names for the projects and it checks whether the domain name available in namecheap website.
-### [Live Site](https://nameit-app.netlify.app/)
+### [Live Site](http://Naveen963.github.io/nameit/)
 ## Nameit App ![nameit](https://user-images.githubusercontent.com/55271508/123522544-7855c180-d6db-11eb-907d-779d39c35429.png)
 
 ## Resources
